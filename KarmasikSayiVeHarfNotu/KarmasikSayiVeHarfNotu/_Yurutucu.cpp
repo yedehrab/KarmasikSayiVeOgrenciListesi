@@ -43,6 +43,7 @@ int main() {
 		break;
 	case 3:
 		(k1 * k2).goster();
+		break;
 	case 4:
 		(k1 / k2).goster();
 		break;
