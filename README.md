@@ -1,4 +1,14 @@
-## Oku Beni (Konusu) adlı dosyaya bakınız.
+# v.1.0.1
+
+* Degistirilmis hali eklendi.
+
+## Degisenler
+* Degisken isimleri, fonksiyon yapisi.
+
+## Not
+* **Çıktı ve içerik değişmemiştir.**
+
+# Oku Beni (Konusu) adlı dosyaya bakınız.
 
 **Soru1: (40 Puan)**
 
